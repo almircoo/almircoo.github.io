@@ -2,7 +2,7 @@
 Here is a playground to learn and test some basic Python programming techniques.  
 I follow the book *Introduction to Python programming and data structures*
 
-- [] Chapter 1: Introduction   
+- [x] Chapter 1: Introduction   
 - [] Chapter 2: Elementary programming   
 - [] Chapter 3: Selections   
 - [] Chapter 4: Mathematical functions, characters and strings  
