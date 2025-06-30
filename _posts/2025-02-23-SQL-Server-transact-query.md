@@ -1,4 +1,3 @@
-Claro, aquí está el contenido del archivo `sql-tscript.doc` convertido y estructurado en formato Markdown.
 
 ---
 
